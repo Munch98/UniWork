@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.Spinner?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="960.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.opgave1.PrimaryController">
+   <children>
+      <Label fx:id="beskedID" layoutX="125.0" layoutY="65.0" text="Besked" />
+      <TextField fx:id="txtFAction" layoutX="262.0" layoutY="60.0" onAction="#txtFaction" prefHeight="26.0" prefWidth="449.0" promptText="Skriv din besked her" />
+      <RadioButton fx:id="atbtn" layoutX="262.0" layoutY="161.0" mnemonicParsing="false" onAction="#atbtnAction" text="At Bash" />
+      <RadioButton fx:id="cbtn" layoutX="508.0" layoutY="153.0" mnemonicParsing="false" onAction="#cbtnAction" text="Caesar" />
+      <Spinner fx:id="cSpin" editable="true" layoutX="457.0" layoutY="184.0" onMouseClicked="#spinnerAction" />
+      <Button fx:id="krypterBtn" layoutX="262.0" layoutY="482.0" mnemonicParsing="false" onAction="#krypterBtnAction" text="Kryptér" />
+      <Label layoutX="69.0" layoutY="306.0" text="Krypteret besked" />
+      <Label layoutX="58.0" layoutY="385.0" text="Desrypterert besekd" />
+      <TextField fx:id="kryptxt" layoutX="262.0" layoutY="301.0" onAction="#kryptxtAction" prefHeight="26.0" prefWidth="449.0" />
+      <TextField fx:id="dkryptxt" layoutX="262.0" layoutY="380.0" onAction="#dkryptxtAction" prefHeight="26.0" prefWidth="449.0" />
+      <Button fx:id="dbtn" layoutX="627.0" layoutY="482.0" mnemonicParsing="false" onAction="#dbtnAction" text="Dekryptér" />
+   </children>
+</Pane>

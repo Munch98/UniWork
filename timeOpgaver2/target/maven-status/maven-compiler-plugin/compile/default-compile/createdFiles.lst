@@ -1,0 +1,5 @@
+module-info.class
+com/mycompany/timeopgaver2/Main.class
+com/mycompany/timeopgaver2/PrimaryController.class
+com/mycompany/timeopgaver2/SecondaryController.class
+com/mycompany/timeopgaver2/App.class

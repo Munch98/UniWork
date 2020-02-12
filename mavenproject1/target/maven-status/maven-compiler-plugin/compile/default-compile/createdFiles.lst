@@ -1,0 +1,6 @@
+com/mycompany/mavenproject1/Main.class
+module-info.class
+com/mycompany/mavenproject1/App.class
+com/mycompany/mavenproject1/SecondaryController.class
+com/mycompany/mavenproject1/PrimaryController.class
+com/mycompany/mavenproject1/CamelWriter.class
