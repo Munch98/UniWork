@@ -73,8 +73,10 @@ public class PrimaryController implements Initializable {
         }
 
         for (int i = 0; i < textSplit.length; i++) {
-            newtxt = textSplit[i] + " ";
+            newtxt += textSplit[i] + " ";
+
         }
+        txtArea.setText(newtxt);
 
     }
 
@@ -91,7 +93,7 @@ public class PrimaryController implements Initializable {
             scanner = new Scanner(aabnetfil);
             String line1 = "";
             while (scanner.hasNextLine()) {
-                String line = scanner.nextLine()+"\n";
+                String line = scanner.nextLine() + "\n";
                 line1 += line;
 
             }
