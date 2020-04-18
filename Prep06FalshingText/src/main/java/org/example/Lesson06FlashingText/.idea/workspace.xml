@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aac4e4d6-5819-4edc-8d2b-a38d4c323931" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZLOSnBegHFZjvJnz8BqplJ5PlE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15375" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="flashingtext" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fsan\OneDrive - Syddansk Universitet\Teaching\VOP20\Lesson 06\Lesson06FlashingText\src\main\resources\flashingtext" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="flashingtext.App" />
+      <module name="Lesson06FlashingText" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="flashingtext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lektion11FlashingText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lektion.pkg11.flashingtext.Lektion11FlashingText" />
+      <module name="Lesson06FlashingText" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lektion.pkg11.flashingtext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="flashingtext.Main" />
+      <module name="Lesson06FlashingText" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="flashingtext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Lektion11FlashingText (1)" />
+        <item itemvalue="Application.Lektion11FlashingText" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aac4e4d6-5819-4edc-8d2b-a38d4c323931" name="Default Changelist" comment="" />
+      <created>1584614910011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584614910011</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="873" y="363" key="#Project_Structure" timestamp="1584615801078">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="363" key="#Project_Structure/-1920.1480.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1584615801078" />
+    <state x="1061" y="460" key="FileChooserDialogImpl" timestamp="1584615507834">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="460" key="FileChooserDialogImpl/-1920.1480.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1584615507834" />
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom" timestamp="1584616946104">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom/-1920.1480.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1584616946104" />
+    <state width="2517" height="400" key="GridCell.Tab.0.center" timestamp="1584616946104">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.center/-1920.1480.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1584616946104" />
+    <state width="2517" height="400" key="GridCell.Tab.0.left" timestamp="1584616946104">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.left/-1920.1480.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1584616946104" />
+    <state width="2517" height="400" key="GridCell.Tab.0.right" timestamp="1584616946104">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.right/-1920.1480.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1584616946104" />
+    <state x="811" y="360" key="Maven.ArtifactSearchDialog" timestamp="1584615990290">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="811" y="360" key="Maven.ArtifactSearchDialog/-1920.1480.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1584615990290" />
+    <state x="989" y="530" key="com.intellij.ide.util.TipDialog" timestamp="1584615259962">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="989" y="530" key="com.intellij.ide.util.TipDialog/-1920.1480.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1584615259962" />
+    <state x="1015" y="603" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584615769152">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1015" y="603" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1920.1480.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1584615769152" />
+  </component>
+</project>

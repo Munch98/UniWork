@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="940efcfd-34e3-46d9-b2b3-d9f57e6caac1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lesson06FlashingText/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson06FlashingText/.idea/Lesson06FlashingText.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson06FlashingText/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson06FlashingText/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson06FlashingText/.idea/libraries/org_openjfx_javafx_controls_14_ea_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson06FlashingText/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson06FlashingText/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson06FlashingText/Lesson06FlashingText.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MO6 prepare/MO6 prepare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/aa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../take2/take2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../timeOpgaver2/timeOpgaver2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/untitled4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../timeOpgaver2/src/main/java/com/mycompany/timeopgaver2/PrimaryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../timeOpgaver2/src/main/java/com/mycompany/timeopgaver2/PrimaryController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZmA0tlqVsm17udOAsggzpOXfrS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Lesson06OneArmedBandit/pom.xml" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="940efcfd-34e3-46d9-b2b3-d9f57e6caac1" name="Default Changelist" comment="" />
+      <created>1585433675989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585433675989</updated>
+      <workItem from="1585433678587" duration="443000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="748" y="316" key="FileChooserDialogImpl" timestamp="1585433742396">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="748" y="316" key="FileChooserDialogImpl/0.36.1920.1044@0.36.1920.1044" timestamp="1585433742396" />
+    <state width="914" height="261" key="GridCell.Tab.0.bottom" timestamp="1585434120862">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="914" height="261" key="GridCell.Tab.0.bottom/0.36.1920.1044@0.36.1920.1044" timestamp="1585434120862" />
+    <state width="914" height="261" key="GridCell.Tab.0.center" timestamp="1585434120861">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="914" height="261" key="GridCell.Tab.0.center/0.36.1920.1044@0.36.1920.1044" timestamp="1585434120861" />
+    <state width="914" height="261" key="GridCell.Tab.0.left" timestamp="1585434120860">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="914" height="261" key="GridCell.Tab.0.left/0.36.1920.1044@0.36.1920.1044" timestamp="1585434120860" />
+    <state width="914" height="261" key="GridCell.Tab.0.right" timestamp="1585434120861">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="914" height="261" key="GridCell.Tab.0.right/0.36.1920.1044@0.36.1920.1044" timestamp="1585434120861" />
+    <state x="659" y="386" key="com.intellij.ide.util.TipDialog" timestamp="1585433678642">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="659" y="386" key="com.intellij.ide.util.TipDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1585433678642" />
+    <state x="340" y="260" key="new project wizard" timestamp="1585433733399">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="340" y="260" key="new project wizard/0.36.1920.1044@0.36.1920.1044" timestamp="1585433733399" />
+  </component>
+</project>

@@ -28,6 +28,7 @@ public class PrimaryController {
 
     @FXML
     private void soegTxtAction(ActionEvent event) {
+        soegTxt.getText()
     }
 
     @FXML
