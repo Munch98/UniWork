@@ -13,14 +13,14 @@
 <script>
   //Loads window and sets canvas to 2d
   window.onload = function () {
-    person = prompt("Indtast dit navn", "Player");
+    person = prompt("Indtast dit navn", "Spiller");
     canv = document.getElementById("gc");
     ctx = canv.getContext("2d");
 
     //Adds eventListener
     document.addEventListener("keydown", keyPush);
-    //Sets speed of the game (updates 10 times a sec)
-    setInterval(game, 1000 / 10);
+    //Sets speed of the game (updates 15 times a sec)
+    setInterval(game, 1000 / 15);
   };
   //Playerstart
   px = py = 10;
@@ -37,11 +37,9 @@
   //TailLength
   tail = 5;
 
-  db = [];
+  // db = [];
 
   function game() {
-    document.getElementById("loggedIn").innerHTML =
-      "Du er logget ind som: " + person;
     if (sessionStorage.getItem("highscore") == null) {
       sessionStorage.setItem("highscore", trail.length);
     }
@@ -50,29 +48,32 @@
       sessionStorage.removeItem("highscore");
       sessionStorage.setItem("highscore", trail.length);
 
-      if (
-        db.length == 10 &&
-        db[9] >= parseInt(sessionStorage.getItem("highscore"))
-      ) {
-        console.log("Ikke en highscore");
-      } else {
-        db.push({ name: person, score: trail.length });
-        dbSort();
-        sessionStorage.removeItem("db", JSON.stringify(db));
-        sessionStorage.setItem("db", JSON.stringify(db));
-      }
+      // if (
+      //   db.length == 10 &&
+      //   db[9] >= parseInt(sessionStorage.getItem("highscore"))
+      // ) {
+      //   console.log("Ikke en highscore");
+      // } else {
+      //   db.push({ name: person, score: trail.length });
+      //   dbSort();
+      //   sessionStorage.removeItem("db", JSON.stringify(db));
+      //   sessionStorage.setItem("db", JSON.stringify(db));
+      // }
     }
-    score = "Nuværende score: " + trail.length;
-    highscore =
+    document.getElementById("loggedIn").innerHTML =
+      "Du er logget ind som: " + person;
+
+    document.getElementById("score").innerHTML =
+      "Nuværende score: " + trail.length;
+
+    document.getElementById("highscore").innerHTML =
       sessionStorage.getItem("highscoreHolder") +
       " har highscoren på: " +
       sessionStorage.getItem("highscore");
-    document.getElementById("score").innerHTML = score;
-    document.getElementById("highscore").innerHTML = highscore;
 
-    document.getElementById(
-      "highscoreArray"
-    ).innerHTML = sessionStorage.getItem("db");
+    // document.getElementById(
+    //   "highscoreArray"
+    // ).innerHTML = sessionStorage.getItem("db");
     px += xv;
     py += yv;
     if (px < 0) {
@@ -109,6 +110,9 @@
       tail++;
       ax = Math.floor(Math.random() * tc);
       ay = Math.floor(Math.random() * tc);
+      //Rotten apple new pos
+      axr = Math.floor(Math.random() * tc);
+      ayr = Math.floor(Math.random() * tc);
     }
     ctx.fillStyle = "red";
     ctx.fillRect(ax * gs, ay * gs, gs - 2, gs - 2);
@@ -118,20 +122,20 @@
       tail++;
       ax1 = Math.floor(Math.random() * tc);
       ay1 = Math.floor(Math.random() * tc);
+      //Rotten apple new pos
+      axr = Math.floor(Math.random() * tc);
+      ayr = Math.floor(Math.random() * tc);
     }
     ctx.fillStyle = "red";
     ctx.fillRect(ax1 * gs, ay1 * gs, gs - 2, gs - 2);
 
     //rotten apple
     if (axr == px && ayr == py) {
-      if (tail <= 7) {
-        tail = 5;
-      } else {
-        tail -= 2;
-      }
+      tail = 5;
       axr = Math.floor(Math.random() * tc);
       ayr = Math.floor(Math.random() * tc);
     }
+
     ctx.fillStyle = "BlueViolet";
     ctx.fillRect(axr * gs, ayr * gs, gs - 2, gs - 2);
   }
@@ -159,10 +163,10 @@
         break;
     }
   }
-  function dbSort() {
-    db.sort((a, b) => b.score - a.score);
-    if (db.length > 10) {
-      db.pop();
-    }
-  }
+  // function dbSort() {
+  //   db.sort((a, b) => b.score - a.score);
+  //   if (db.length > 10) {
+  //     db.pop();
+  //   }
+  // }
 </script>
